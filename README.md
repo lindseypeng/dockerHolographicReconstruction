@@ -1,4 +1,4 @@
-This is a successful build of docker container made for image processing scripts for in line holographic microscopy .
+This is a docker image made for image processing scripts for in line holographic microscopy .
 
 The base image is from https://github.com/waleedka/modern-deep-learning-docker, which includes most of the image processing libraries and
 deep learning libraries as well

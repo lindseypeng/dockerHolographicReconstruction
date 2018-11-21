@@ -1,0 +1,2 @@
+tifffile == 0.15.1
+imutils==0.5.1

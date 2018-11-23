@@ -19,3 +19,6 @@ I can choose to mount to the general location /home/alinsi to the /app/data fold
 sudo docker run -it -v /home/alinsi:/app/data holographtest2 /bin/bash
 python DHMcombined.py -i /app/data/Desktop/DHMdata -o /app/data/Desktop/DHMdata -ci 1 -cf 100
 
+
+
+The repository is at : https://hub.docker.com/r/alinsi/holographreconstruction/

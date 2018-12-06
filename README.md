@@ -8,7 +8,7 @@ the docker file simply adds another few layers of tifffile and imutils, as well 
 
 TO USE THIS :
 
-sudo docker run -it -v /absolutepathtohostmountfolder:/app/data holographtest2 /bin/bash
+sudo docker run -it -v /absolutepathtohostmountfolder:/app/data alinsi/holographreconstruction /bin/bash
 
 python DHMcombined.py -i location/to/fileread/indatafolder -o location/to/filesave/indatafolder -ci startingframe -cf endframe
 
